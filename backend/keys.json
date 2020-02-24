@@ -3,5 +3,5 @@
   "mongoPort": "8000",
   "mongoDatabase": "lovelang",
   "mongoUser": "admin",
-  "mongoPass": "gococonut"
+  "mongoPass": ""
 }
